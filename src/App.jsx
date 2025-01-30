@@ -6,7 +6,7 @@ import Header from "./componet/Header"
   import 'bootstrap/dist/css/bootstrap.min.css'
   import 'bootstrap/dist/js/bootstrap.bundle.min'
   import  logo from './assets/coffee1.png'
- import Mybutton from "./componet/cutomcss/mybutton" 
+ import Mybutton from "./componet/cutomcss/Mybutton" 
  import Section from "./componet/Section"
   import logoone from "./assets/cafe1.png"
   import SectionSecond from "./componet/SectionSecond"
